@@ -392,8 +392,6 @@ Made with ☕ and 💻
 [Back to Top](#-library-management-system-lms)
 
 </div>
-<span style="display:none">[^1]</span>
-
 <div align="center">⁂</div>
 
 [^1]: https://github.com/UE19/projectwork_lms-01
