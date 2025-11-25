@@ -37,7 +37,7 @@ public class Book {
     }
     
     // Normal in-memory issue (optional now as DB handles it, but good for UI updates if not reloading DB)
-    public void issue(String studentId, int days) {
+    public void issueBook(String studentId, int days) {
         this.isIssued = true;
         this.issuedToStudentId = studentId;
         this.issueDateTime = LocalDateTime.now();
